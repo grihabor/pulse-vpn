@@ -15,9 +15,7 @@ keywords = ["vpn", "Pulse Secure", "openconnect", "ivanti"]
 classifiers = [
     "Programming Language :: Python :: 3",
 ]
-urls = {
-    repository = "https://github.com/grihabor/pulse-vpn"
-}
+urls = {repository = "https://github.com/grihabor/pulse-vpn"}
 dependencies = [
     "PyQt6-WebEngine",
 ]
