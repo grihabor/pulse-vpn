@@ -1,4 +1,3 @@
-
 # Pulse VPN
 
 Pulse VPN is a minimal web GUI that helps you connect to Pulse Connect Secure

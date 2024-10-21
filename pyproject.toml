@@ -7,8 +7,8 @@ name = "pulse-vpn"
 authors = [
     {name = "Borodin Gregory", email = "grihabor@gmail.com"},
 ]
-description = ""
-readme = "README.rst"
+description = "OpenConnect wrapper for Pulse Secure VPN"
+readme = "README.md"
 requires-python = ">=3.11"
 license = {file = "LICENSE"}
 keywords = ["vpn", "Pulse Secure", "openconnect", "ivanti"]
