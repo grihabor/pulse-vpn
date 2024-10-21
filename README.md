@@ -17,7 +17,7 @@ You might want to use this script if:
 ## Install
 
 ```bash
-sudo apt install openconnect
+sudo apt install openconnect libxcb-cursor-dev
 pip install --user pulse-vpn
 ```
 
